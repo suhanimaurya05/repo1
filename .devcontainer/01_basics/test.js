@@ -1,1 +1,1 @@
-console.log("codeforces");
+console.log("gssoc");
